@@ -10,11 +10,11 @@ html{
     scroll-behavior: smooth;
 }
 body{
-    background-image: linear-gradient( rgba(0,0,0,0.9),rgba(0,0,0,0.9)),url('images/telugumovies/kori.2.jpg');
+    background-image: linear-gradient( rgba(0,0,0,0.9),rgba(0,0,0,0.9)),url('images/telugumovies/ninu kori3.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    height: 140vh;
+    height: 130vh;
 }
 header{
     color:rgb(184, 179, 179);
